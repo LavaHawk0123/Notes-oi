@@ -1,4 +1,4 @@
-# fNotes.oi
+# Notes.oi
 
 A minimal web app developed with [Flask](http://flask.pocoo.org/) framework. 
 
